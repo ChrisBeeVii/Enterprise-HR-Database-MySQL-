@@ -17,7 +17,7 @@ To keep information neat, prevent duplicate entries, and eliminate human error, 
 
 **Built-In Data Safety:**
 
-The two tables are connected using a foreign key link, ensuring that every single worker is tied to a real, existing department. Because of this relationship, the database automatically enforces data safety rules—preventing invalid records from being entered and blocking a department from being accidentally deleted if employees are still assigned to it.
+The two tables are connected using a foreign key link, ensuring that every single worker is tied to a real, existing department. Because of this relationship, the database automatically enforces data safety rules, preventing invalid records from being entered and blocking a department from being accidentally deleted if employees are still assigned to it.
 
 
 
